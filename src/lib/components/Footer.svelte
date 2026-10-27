@@ -18,6 +18,5 @@
 		<NavItems />
 	</nav>
 
-	<p>&copy;{new Date().getFullYear() {siteAuthor}</p>
-{#if broken}
+	<p>&copy;{new Date().getFullYear()} {siteAuthor}</p>
 </footer>
