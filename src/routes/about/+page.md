@@ -4,7 +4,7 @@
 
 # About
 
-E2E-MARKER-PAUSED (pushed while deploys paused)
+E2E-MARKER-V2 (redeploy on push)
 
 This is an example of how you can have _markdown_ in page content!
 
